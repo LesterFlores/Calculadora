@@ -1,0 +1,23 @@
+
+
+input[type="button"]
+ {
+    width: 100px;
+    height: 80px;
+    font-size: 18px;
+    background-color: aqua;
+    border: solid;
+}
+
+input[type="text"]{
+    width: 98%;
+    height: 60px;
+    font-size: 18px;
+    background-color: aqua;
+    border: solid black;
+}
+
+table{
+    margin: 0 auto;
+    border: solid;
+}
